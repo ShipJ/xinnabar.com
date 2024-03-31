@@ -1,3 +1,7 @@
+// Organizes the structure of website's layout by defining common elements
+// shared across multiple pages. This could include HTML markup for headers
+// footers, sidebars, or any other common layout components.
+
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
